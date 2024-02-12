@@ -2,7 +2,7 @@
 
 module.exports = {
     discord: {
-        token: 'MTE2NDU4NDY1MTEyNjQ3Njk1MA.GMZ-N2.A0MRVrByYjVHtqSQHf4dzmxoVhYJhUCTD10Ukw'
+        token: ''
     },
     settings: {
         roleId: '1206594263295729704',
