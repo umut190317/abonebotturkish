@@ -1,1 +1,2 @@
-# abonebotturkish
+# abonebot
+@romanizm tarafından yapıldı.
